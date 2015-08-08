@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/coding-me/maven-p2-view.svg?branch=master)](https://travis-ci.org/coding-me/maven-p2-view)
 [![Coverage Status](https://coveralls.io/repos/coding-me/maven-p2-view/badge.svg?branch=master&service=github)](https://coveralls.io/github/coding-me/maven-p2-view?branch=master)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 # Maven-P2-View
 A library to provide a true P2 repository view on Maven repositories
